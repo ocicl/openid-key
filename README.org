@@ -1,0 +1,10 @@
+* openid-key
+
+Get OpenID keys from issuer.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kkazuo/openid-key.git   |
+| commit  | 484584b  |
+| systems | openid-key |
+|---------+-------------------------------------------|
+
